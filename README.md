@@ -30,7 +30,7 @@ Humanoid agents is a platform for building agents inspired by how humans think, 
 ## Installation
 
 ```
-git clone https://github.com/HumanoidAgents/HumanoidAgents.git
+git clone https://github.com/complexityhandler/WorkinAgents.git
 cd HumanoidAgents
 pip install -e .
 ```
